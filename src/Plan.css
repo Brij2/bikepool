@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    background-color:white;
+    margin-top: 150px;
+    padding:10px;
+    height:fit-content;
+    width: fit-content;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.from, .to, .traveldate{
+    margin:5px;
+}
